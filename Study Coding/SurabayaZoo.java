@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class SurabayaZoo {
 
-    // ===== VARIABEL GLOBAL (ARRAY) =====
+    // variabel 
     static String[] kategori = new String[100];
     static int[] harga = new int[100];
     static int[] jumlah = new int[100];
