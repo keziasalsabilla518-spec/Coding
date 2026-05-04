@@ -1,7 +1,7 @@
 
     //blok class
 public class cobacoba {
-    //blok main 
+    //blok main
   public static void main(String[] args) {
     //tempat koding
   
